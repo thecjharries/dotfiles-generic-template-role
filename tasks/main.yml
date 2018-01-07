@@ -1,10 +1,13 @@
 ---
 - name: "Ensure {{ template_root }} exists"
   file:
-    path: "{{ template_root }}"
+    path: "{{ item }}"
     owner: "{{ owning_user }}"
     group: "{{ owning_group }}"
     state: directory
+  with_items:
+    - "{{ template_root }}"
+    - "{{ template_root }}/{{ template_path | dirname }}"
   tags:
     - config
     - template
