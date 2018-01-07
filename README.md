@@ -1,6 +1,8 @@
-# `dotfiles-generic-template-role`
+# `dotfiles-role-generic-template`
+# `dotfiles-role-generic-template`
 
-[![Build Status](https://travis-ci.org/thecjharries/dotfiles-generic-template-role.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-generic-template-role)
+[![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-generic-template.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-generic-template)
+[![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-generic-template.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-generic-template)
 
 ## Requirements
 
