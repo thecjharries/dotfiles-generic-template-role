@@ -6,4 +6,4 @@
 
   roles:
     - role: "{{ playbook_dir }}"
-      template_path: "Dockerfile"
+      template_path: "LICENSE"
