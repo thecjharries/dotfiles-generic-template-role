@@ -1,4 +1,4 @@
-# `dotfiles-generic-template`
+# `dotfiles-generic-template-role`
 
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-generic-template-role.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-generic-template-role)
 
