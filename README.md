@@ -1,7 +1,5 @@
 # `dotfiles-role-generic-template`
-# `dotfiles-role-generic-template`
 
-[![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-generic-template.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-generic-template)
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-generic-template.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-generic-template)
 
 ## Requirements
