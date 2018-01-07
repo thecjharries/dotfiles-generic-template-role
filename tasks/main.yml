@@ -1,0 +1,21 @@
+---
+- name: "Ensure {{ template_root }} exists"
+  file:
+    path: "{{ template_root }}"
+    owner: "{{ owning_user }}"
+    group: "{{ owning_group }}"
+    state: directory
+  tags:
+    - config
+    - template
+
+- name: "Template the config file"
+  template:
+    src: "{{ template_path }}"
+    dest: "{{ template_root }}/{{ template_path }}"
+    owner: "{{ owning_user }}"
+    group: "{{ owning_group }}"
+    mode: "u=rwx"
+  tags:
+    - config
+    - template
