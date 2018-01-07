@@ -1,7 +1,7 @@
 # `dotfiles-role-generic-template`
 
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-generic-template.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-generic-template)
-[![GitHub release](https://img.shields.io/github/release/thecjharries/dotfiles-role-generic-template.svg)](https://github.com/thecjharries/dotfiles-role-generic-template)
+[![GitHub tag](https://img.shields.io/github/tag/thecjharries/dotfiles-role-generic-template.svg)](https://github.com/thecjharries/dotfiles-role-generic-template)
 
 ## Requirements
 
